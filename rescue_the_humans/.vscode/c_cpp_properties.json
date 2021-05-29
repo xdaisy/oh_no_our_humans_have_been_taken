@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "rescue_the_humansEditor Editor Win64 Development (rescue_the_humans)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\.vscode\\compileCommands_rescue_the_humans.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

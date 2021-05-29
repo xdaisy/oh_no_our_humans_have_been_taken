@@ -1,0 +1,27 @@
+[
+	{
+		"file": "E:\\\\My shit\\\\Game Projects\\\\oh_no_our_humans_have_been_taken\\\\rescue_the_humans\\\\Source\\\\rescue_the_humans\\\\rescue_the_humans.Build.cs",
+		"command": "cl.exe @\"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\.vscode\\compileCommands_rescue_the_humans\\rescue_the_humans.182.rsp\"",
+		"directory": "C:\\Program Files (x86)\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\My shit\\\\Game Projects\\\\oh_no_our_humans_have_been_taken\\\\rescue_the_humans\\\\Source\\\\rescue_the_humans\\\\rescue_the_humans.cpp",
+		"command": "cl.exe @\"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\.vscode\\compileCommands_rescue_the_humans\\rescue_the_humans.182.rsp\"",
+		"directory": "C:\\Program Files (x86)\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\My shit\\\\Game Projects\\\\oh_no_our_humans_have_been_taken\\\\rescue_the_humans\\\\Source\\\\rescue_the_humans\\\\rescue_the_humans.h",
+		"command": "cl.exe @\"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\.vscode\\compileCommands_rescue_the_humans\\rescue_the_humans.182.rsp\"",
+		"directory": "C:\\Program Files (x86)\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\My shit\\\\Game Projects\\\\oh_no_our_humans_have_been_taken\\\\rescue_the_humans\\\\Source\\\\rescue_the_humans\\\\rescue_the_humansGameModeBase.cpp",
+		"command": "cl.exe @\"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\.vscode\\compileCommands_rescue_the_humans\\rescue_the_humans.182.rsp\"",
+		"directory": "C:\\Program Files (x86)\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\My shit\\\\Game Projects\\\\oh_no_our_humans_have_been_taken\\\\rescue_the_humans\\\\Source\\\\rescue_the_humans\\\\rescue_the_humansGameModeBase.h",
+		"command": "cl.exe @\"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\.vscode\\compileCommands_rescue_the_humans\\rescue_the_humans.182.rsp\"",
+		"directory": "C:\\Program Files (x86)\\Epic Games\\UE_4.26\\Engine\\Source"
+	}
+]

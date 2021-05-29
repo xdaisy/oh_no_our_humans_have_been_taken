@@ -1,0 +1,7 @@
+E:\My shit\Game Projects\oh_no_our_humans_have_been_taken\rescue_the_humans\Intermediate\Build\Win64\UE4Editor\Development\rescue_the_humans\Definitions.rescue_the_humans.h
+e:\my shit\game projects\oh_no_our_humans_have_been_taken\rescue_the_humans\source\rescue_the_humans\rescue_the_humansGameModeBase.h
+C:\Program Files (x86)\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files (x86)\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files (x86)\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+E:\My shit\Game Projects\oh_no_our_humans_have_been_taken\rescue_the_humans\Intermediate\Build\Win64\UE4Editor\Inc\rescue_the_humans\rescue_the_humansGameModeBase.generated.h

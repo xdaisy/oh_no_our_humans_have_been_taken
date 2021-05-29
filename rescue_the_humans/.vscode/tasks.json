@@ -1,0 +1,977 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "rescue_the_humans Win32 Debug Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win32",
+				"Debug",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans Win32 Debug Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win32",
+				"Debug",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"rescue_the_humans Win32 Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans Win32 Debug Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win32",
+				"Debug",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans Win32 DebugGame Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win32",
+				"DebugGame",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans Win32 DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win32",
+				"DebugGame",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"rescue_the_humans Win32 DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans Win32 DebugGame Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win32",
+				"DebugGame",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans Win32 Development Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win32",
+				"Development",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans Win32 Development Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win32",
+				"Development",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"rescue_the_humans Win32 Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans Win32 Development Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win32",
+				"Development",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans Win32 Shipping Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win32",
+				"Shipping",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans Win32 Shipping Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win32",
+				"Shipping",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"rescue_the_humans Win32 Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans Win32 Shipping Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win32",
+				"Shipping",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans Win32 Test Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win32",
+				"Test",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans Win32 Test Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win32",
+				"Test",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"rescue_the_humans Win32 Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans Win32 Test Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win32",
+				"Test",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans Win64 Debug Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win64",
+				"Debug",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans Win64 Debug Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win64",
+				"Debug",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"rescue_the_humans Win64 Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans Win64 Debug Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win64",
+				"Debug",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans Win64 DebugGame Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win64",
+				"DebugGame",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans Win64 DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win64",
+				"DebugGame",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"rescue_the_humans Win64 DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans Win64 DebugGame Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win64",
+				"DebugGame",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans Win64 Development Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win64",
+				"Development",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans Win64 Development Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win64",
+				"Development",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"rescue_the_humans Win64 Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans Win64 Development Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win64",
+				"Development",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans Win64 Shipping Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win64",
+				"Shipping",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans Win64 Shipping Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win64",
+				"Shipping",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"rescue_the_humans Win64 Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans Win64 Shipping Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win64",
+				"Shipping",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans Win64 Test Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win64",
+				"Test",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans Win64 Test Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win64",
+				"Test",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"rescue_the_humans Win64 Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans Win64 Test Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"rescue_the_humans",
+				"Win64",
+				"Test",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans IOS Debug Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"IOS",
+				"Debug",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans IOS Debug Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"IOS",
+				"Debug",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"rescue_the_humans IOS Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans IOS Debug Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"rescue_the_humans",
+				"IOS",
+				"Debug",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans IOS DebugGame Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"IOS",
+				"DebugGame",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans IOS DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"IOS",
+				"DebugGame",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"rescue_the_humans IOS DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans IOS DebugGame Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"rescue_the_humans",
+				"IOS",
+				"DebugGame",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans IOS Development Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"IOS",
+				"Development",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans IOS Development Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"IOS",
+				"Development",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"rescue_the_humans IOS Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans IOS Development Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"rescue_the_humans",
+				"IOS",
+				"Development",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans IOS Shipping Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"IOS",
+				"Shipping",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans IOS Shipping Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"IOS",
+				"Shipping",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"rescue_the_humans IOS Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans IOS Shipping Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"rescue_the_humans",
+				"IOS",
+				"Shipping",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans IOS Test Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"IOS",
+				"Test",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans IOS Test Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humans",
+				"IOS",
+				"Test",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"rescue_the_humans IOS Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humans IOS Test Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"rescue_the_humans",
+				"IOS",
+				"Test",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humansEditor Win64 Debug Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humansEditor",
+				"Win64",
+				"Debug",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humansEditor Win64 Debug Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humansEditor",
+				"Win64",
+				"Debug",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"rescue_the_humansEditor Win64 Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humansEditor Win64 Debug Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"rescue_the_humansEditor",
+				"Win64",
+				"Debug",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humansEditor Win64 DebugGame Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humansEditor",
+				"Win64",
+				"DebugGame",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humansEditor Win64 DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humansEditor",
+				"Win64",
+				"DebugGame",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"rescue_the_humansEditor Win64 DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humansEditor Win64 DebugGame Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"rescue_the_humansEditor",
+				"Win64",
+				"DebugGame",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humansEditor Win64 Development Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humansEditor",
+				"Win64",
+				"Development",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humansEditor Win64 Development Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"rescue_the_humansEditor",
+				"Win64",
+				"Development",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"rescue_the_humansEditor Win64 Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		},
+		{
+			"label": "rescue_the_humansEditor Win64 Development Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"rescue_the_humansEditor",
+				"Win64",
+				"Development",
+				"E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\rescue_the_humans.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+			}
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "rescue_the_humans",
+			"Path": "E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\Source\\rescue_the_humans.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "rescue_the_humansEditor",
+			"Path": "E:\\My shit\\Game Projects\\oh_no_our_humans_have_been_taken\\rescue_the_humans\\Source\\rescue_the_humansEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
