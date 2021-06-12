@@ -1,2 +1,0 @@
-E:\My shit\Game Projects\oh_no_our_humans_have_been_taken\rescue_the_humans\Intermediate\Build\Win64\UE4Editor\Development\rescue_the_humans\Definitions.rescue_the_humans.h
-e:\my shit\game projects\oh_no_our_humans_have_been_taken\rescue_the_humans\source\rescue_the_humans\rescue_the_humans.h
