@@ -1,0 +1,1167 @@
+﻿Log file open, 07/24/21 15:04:46
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: rescue_the_humans
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.250015
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files (x86)/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.07.24-22.04.47:196][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.07.24-22.04.47:196][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.07.24-22.04.47:196][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/Config/Windows/Engine.ini]
+[2021.07.24-22.04.47:196][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.07.24-22.04.47:196][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2021.07.24-22.04.47:196][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/Config/Windows/Engine.ini]
+[2021.07.24-22.04.47:196][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/Config/Windows/Engine.ini]
+[2021.07.24-22.04.47:196][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.07.24-22.04.47:197][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.07.24-22.04.47:197][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.07.24-22.04.47:197][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.07.24-22.04.47:197][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.07.24-22.04.47:197][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.07.24-22.04.47:197][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.07.24-22.04.47:197][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.07.24-22.04.47:197][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.07.24-22.04.47:197][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.07.24-22.04.47:197][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.07.24-22.04.47:197][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.07.24-22.04.47:197][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.07.24-22.04.47:197][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.07.24-22.04.47:197][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/Config/Windows/Engine.ini]
+[2021.07.24-22.04.47:197][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.07.24-22.04.47:197][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.07.24-22.04.47:197][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.07.24-22.04.47:197][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.07.24-22.04.47:197][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.07.24-22.04.47:197][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.07.24-22.04.47:197][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.07.24-22.04.47:197][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.07.24-22.04.47:197][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.07.24-22.04.47:197][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.07.24-22.04.47:197][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.07.24-22.04.47:197][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.07.24-22.04.47:197][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.07.24-22.04.47:197][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.07.24-22.04.47:197][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/Config/Windows/Engine.ini]
+[2021.07.24-22.04.47:197][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/Config/Windows/Engine.ini]
+[2021.07.24-22.04.47:222][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/Config/Windows/Scalability.ini]
+[2021.07.24-22.04.47:222][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.24-22.04.47:222][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.24-22.04.47:222][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/Config/Windows/Scalability.ini]
+[2021.07.24-22.04.47:222][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.24-22.04.47:222][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/Config/Windows/Scalability.ini]
+[2021.07.24-22.04.47:222][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.24-22.04.47:222][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.24-22.04.47:222][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.24-22.04.47:222][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.24-22.04.47:222][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.24-22.04.47:222][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.24-22.04.47:222][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.24-22.04.47:222][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.24-22.04.47:222][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.24-22.04.47:222][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.24-22.04.47:222][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.24-22.04.47:222][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.24-22.04.47:222][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.24-22.04.47:222][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.24-22.04.47:222][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.24-22.04.47:222][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.24-22.04.47:222][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.24-22.04.47:222][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.24-22.04.47:222][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/Config/Windows/Scalability.ini]
+[2021.07.24-22.04.47:222][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.24-22.04.47:222][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.24-22.04.47:222][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.24-22.04.47:222][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.24-22.04.47:222][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.24-22.04.47:222][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.24-22.04.47:222][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/Config/Windows/Scalability.ini]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/Config/Windows/Scalability.ini]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/Config/Windows/Scalability.ini]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/Config/Windows/Scalability.ini]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.24-22.04.47:223][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.24-22.04.47:223][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.07.24-22.04.47:223][  0]LogHAL: Display: Platform has ~ 48 GB [51474948096 / 68719476736 / 48], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.07.24-22.04.47:223][  0]LogInit: Going up to parent DeviceProfile []
+[2021.07.24-22.04.47:223][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/Config/Windows/Scalability.ini]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/Config/Windows/Scalability.ini]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/Config/Windows/Scalability.ini]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.24-22.04.47:223][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/Config/Windows/Scalability.ini]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/Config/Windows/Scalability.ini]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/Config/Windows/Scalability.ini]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/Config/Windows/Scalability.ini]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/Config/Windows/Scalability.ini]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.24-22.04.47:224][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.07.24-22.04.47:225][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.07.24-22.04.47:225][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.07.24-22.04.47:225][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.07.24-22.04.47:225][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/Config/Windows/Engine.ini]
+[2021.07.24-22.04.47:225][  0]LogInit: Computer: DESKTOP-DRA7T3G
+[2021.07.24-22.04.47:225][  0]LogInit: User: DaisyXu
+[2021.07.24-22.04.47:225][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.07.24-22.04.47:225][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.07.24-22.04.47:225][  0]LogMemory: Memory total: Physical=47.9GB (48GB approx)
+[2021.07.24-22.04.47:225][  0]LogMemory: Platform Memory Stats for Windows
+[2021.07.24-22.04.47:225][  0]LogMemory: Process Physical Memory: 139.76 MB used, 139.76 MB peak
+[2021.07.24-22.04.47:225][  0]LogMemory: Process Virtual Memory: 111.96 MB used, 111.96 MB peak
+[2021.07.24-22.04.47:225][  0]LogMemory: Physical Memory: 7976.47 MB used,  41113.86 MB free, 49090.34 MB total
+[2021.07.24-22.04.47:225][  0]LogMemory: Virtual Memory: 134171808.00 MB used,  45918.06 MB free, 134217728.00 MB total
+[2021.07.24-22.04.47:229][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.07.24-22.04.47:264][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.07.24-22.04.47:264][  0]LogInit: Using OS detected language (en-US).
+[2021.07.24-22.04.47:264][  0]LogInit: Using OS detected locale (en-US).
+[2021.07.24-22.04.47:267][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.07.24-22.04.47:427][  0]LogInit: Setting process to per monitor DPI aware
+[2021.07.24-22.04.47:440][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.24-22.04.47:483][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.07.24-22.04.47:483][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.07.24-22.04.47:637][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.24-22.04.47:637][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.07.24-22.04.47:637][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.07.24-22.04.47:637][  0]LogD3D11RHI: D3D11 adapters:
+[2021.07.24-22.04.47:708][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2021.07.24-22.04.47:708][  0]LogD3D11RHI:       6052/0/24545 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.07.24-22.04.47:710][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.07.24-22.04.47:710][  0]LogD3D11RHI:       0/0/24545 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.07.24-22.04.47:710][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.07.24-22.04.47:714][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.07.24-22.04.47:714][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2021.07.24-22.04.47:714][  0]LogWindows: EnumDisplayDevices:
+[2021.07.24-22.04.47:715][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2021.07.24-22.04.47:715][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2021.07.24-22.04.47:715][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.07.24-22.04.47:715][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.07.24-22.04.47:715][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.07.24-22.04.47:715][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2021.07.24-22.04.47:715][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.07.24-22.04.47:715][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.07.24-22.04.47:715][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.07.24-22.04.47:759][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.07.24-22.04.47:759][  0]LogD3D11RHI: Async texture creation enabled
+[2021.07.24-22.04.47:759][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.07.24-22.04.47:775][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.07.24-22.04.47:776][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.07.24-22.04.48:026][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.07.24-22.04.48:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.07.24-22.04.48:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.07.24-22.04.48:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.07.24-22.04.48:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.07.24-22.04.48:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.07.24-22.04.48:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.07.24-22.04.48:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.07.24-22.04.48:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.07.24-22.04.48:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.07.24-22.04.48:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.07.24-22.04.48:066][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.07.24-22.04.48:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.07.24-22.04.48:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.07.24-22.04.48:082][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.07.24-22.04.48:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.07.24-22.04.48:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.07.24-22.04.48:105][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.07.24-22.04.48:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.07.24-22.04.48:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.07.24-22.04.48:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.07.24-22.04.48:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.07.24-22.04.48:150][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.07.24-22.04.48:158][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.07.24-22.04.48:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.07.24-22.04.48:172][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.07.24-22.04.48:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.07.24-22.04.48:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.07.24-22.04.48:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.07.24-22.04.48:201][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.07.24-22.04.48:209][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.07.24-22.04.48:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.07.24-22.04.48:216][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.07.24-22.04.48:221][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.07.24-22.04.48:265][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.07.24-22.04.48:265][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Intermediate/Shaders/WorkingDirectory/14332/).
+[2021.07.24-22.04.48:265][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Daisy Xu/AppData/Local/Temp/UnrealShaderWorkingDir/581E61D54405402110EDA4AC2D94AB9B/'.
+[2021.07.24-22.04.48:265][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.07.24-22.04.48:265][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.07.24-22.04.48:914][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.07.24-22.04.48:961][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/Daisy Xu/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.07.24-22.04.48:961][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Daisy Xu/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.07.24-22.04.48:962][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.07.24-22.04.48:962][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.07.24-22.04.48:962][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.24-22.04.48:962][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.07.24-22.04.48:972][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.07.24-22.04.48:972][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.24-22.04.48:972][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.07.24-22.04.48:980][  0]LogDerivedDataCache: Speed tests for C:/Users/Daisy Xu/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.07.24-22.04.48:980][  0]LogDerivedDataCache: Display: Performance to C:/Users/Daisy Xu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=264.54MBs, RandomWriteSpeed=239.29MBs. Assigned SpeedClass 'Local'
+[2021.07.24-22.04.48:980][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Daisy Xu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.07.24-22.04.48:980][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.07.24-22.04.48:980][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.07.24-22.04.49:025][  0]LogSlate: Using FreeType 2.10.0
+[2021.07.24-22.04.49:025][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.07.24-22.04.49:048][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2021.07.24-22.04.49:244][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.24-22.04.49:245][  0]LogInit: Active device profile: [00000299405B8D00][00000299345F4D00 49] Windows
+[2021.07.24-22.04.49:245][  0]LogInit: Profiles: [00000299405B8D00][00000299345F4D00 49] Windows, [00000299405B8E00][00000299345FCE80 49] WindowsNoEditor, [00000299405BA300][0000029934601000 49] WindowsServer, [0000029940509C00][0000029934605180 49] WindowsClient, [00000299404EE600][0000029934609300 49] IOS, [000002994050BE00][000002993460D480 49] iPadAir, [00000299404EDA00][00000299345F95C0 49] iPadAir2, [000002994047D800][0000029934615800 49] IPadPro, [000002994047D900][0000029934611840 49] iPadAir3, [00000299404EE300][0000029934619980 49] iPadAir4, [000002994047C600][0000029934621B00 49] iPadMini2, [00000299404EDB00][0000029934625C80 49] iPadMini3, [000002994047E000][0000029934628140 49] iPadMini4, [00000299404EF200][00000299406A02C0 49] iPadMini5, [0000029940508A00][00000299406A8580 49] iPhone6, [0000029940508700][00000299406A45C0 49] iPodTouch6, [000002994047E600][00000299406B0880 49] iPhone7, [000002994047C900][00000299406AC8C0 49] iPodTouch7, [0000029940509300][00000299406B4A40 49] iPhone5S, [000002994047D400][00000299406B8BC0 49] iPhone6Plus, [0000029940509F00][00000299406BCD40 49] iPhone6S, [000002994047D100][00000299406C0EC0 49] iPhone6SPlus, [0000029940508500][00000299406C5040 49] iPhone7Plus, [000002994047C400][00000299406C91C0 49] iPhoneSE, [000002994050BC00][00000299406CD340 49] iPhone8, [000002994047F200][00000299406D14C0 49] iPhone8Plus, [0000029940508300][00000299406D5640 49] iPhoneX, [000002994047FB00][000002993461D780 49] iPhoneXS, [0000029940509400][00000299406D98C0 49] iPhoneXSMax, [000002994047EF00][00000299406DDA00 49] iPhoneXR, [000002994050B900][00000299406E5B80 49] iPhone11, [000002994047E200][00000299406E9D00 49] iPhone11Pro, [0000029940508F00][00000299406EC1C0 49] iPhone11ProMax, [000002994047E100][00000299406F0340 49] iPhoneSE2, [0000029940509700][00000299406F44C0 49] iPhone12Mini, [000002994047D700][00000299406F8640 49] iPhone12, [0000029940508600][00000299406FC7C0 49] iPhone12Pro, [000002994047C100][0000029940700940 49] iPhone12ProMax, [0000029940509E00][0000029940704AC0 49] iPadPro105, [000002994047C800][0000029940708C40 49] iPadPro129, [000002994050B700][000002994070CDC0 49] iPadPro97, [000002994047DC00][0000029940710F40 49] iPadPro2_129, [0000029940509A00][00000299407150C0 49] iPad5, [000002994047C500][0000029940719240 49] iPad6, [000002994050A100][000002994071D3C0 49] iPad7, [000002994047FC00][0000029940721540 49] iPad8, [0000029940509B00][00000299407256C0 49] iPadPro11, [000002994047D300][00000299406E1800 49] iPadPro2_11, [0000029940509200][0000029940729940 49] iPadPro3_129, [000002994047F300][000002994072DA80 49] iPadPro4_129, [0000029940509900][0000029940735C00 49] AppleTV, [000002994047F800][00000299407380C0 49] AppleTV4K, [000002994050A500][000002994073C240 49] TVOS, [000002994047D000][00000299407403C0 49] Mac, [000002994050BB00][0000029940744540 49] MacClient, [000002994047DE00][00000299407486C0 49] MacNoEditor, [000002994050B000][000002994074C840 49] MacServer, [000002994047E700][00000299407509C0 49] Linux, [000002994050A300][0000029940754B40 49] LinuxNoEditor, [000002994047E500][0000029940758CC0 49] LinuxAArch64NoEditor, [0000029940509800][000002994075CE40 49] LinuxClient, [000002994047F700][0000029940760FC0 49] LinuxAArch64Client, [000002994050B600][0000029940765140 49] LinuxServer, [000002994047E400][00000299407692C0 49] LinuxAArch64Server, [000002994050AA00][000002994076D440 49] Android, [000002994047F500][00000299407715C0 49] Android_Low, [00000299405B9700][0000029940775740 49] Android_Mid, [00000299404EF300][0000029940731880 49] Android_High, [00000299405B9400][00000299407799C0 49] Android_Default, [00000299404EF600][000002994077DB00 49] Android_Adreno4xx, [00000299405B9A00][0000029940781C40 49] Android_Adreno5xx_Low, [00000299404EFE00][0000029940788100 49] Android_Adreno5xx, [00000299405B9800][000002994078C280 49] Android_Adreno6xx, [00000299404EEB00][0000029940790400 49] Android_Adreno6xx_Vulkan, [00000299405B9F00][0000029940794580 49] Android_Mali_T6xx, [00000299404EFA00][0000029940798700 49] Android_Mali_T7xx, [00000299405B8300][000002994079C880 49] Android_Mali_T8xx, [00000299404EE800][00000299407A0A00 49] Android_Mali_G71, [00000299405B8100][00000299407A4B80 49] Android_Mali_G72, [00000299404EF800][00000299407A8D00 49] Android_Mali_G72_Vulkan, [00000299405BA000][00000299407ACE80 49] Android_Mali_G76, [00000299404EDE00][00000299407B1000 49] Android_Mali_G76_Vulkan, [00000299405B8900][00000299407B5180 49] Android_Mali_G77, [00000299404EE000][00000299407B9300 49] Android_Mali_G77_Vulkan, [00000299405B8400][00000299407BD480 49] Android_Vulkan_SM5, [00000299404EC700][00000299407C1600 49] Android_PowerVR_G6xxx, [00000299405B9900][00000299407C5780 49] Android_PowerVR_GT7xxx, [00000299404ED100][00000299407858C0 49] Android_PowerVR_GE8xxx, [000002994047CC00][00000299407C9A00 49] Android_PowerVR_GM9xxx, [000002994050B400][00000299407CDB40 49] Android_PowerVR_GM9xxx_Vulkan, [000002994047F100][00000299407D1C80 49] Android_TegraK1, [0000029940509600][00000299407D8140 49] Android_Unknown_Vulkan, [000002994047FA00][00000299407DC2C0 49] Lumin, [000002994050AE00][00000299407E0440 49] Lumin_Desktop, [000002994047EE00][00000299407E45C0 49] HoloLens, 
+[2021.07.24-22.04.49:333][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.07.24-22.04.49:333][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.07.24-22.04.49:333][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.07.24-22.04.49:333][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.07.24-22.04.49:333][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.07.24-22.04.49:371][  0]LogNetVersion: rescue_the_humans 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3898498410)
+[2021.07.24-22.04.49:730][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.07.24-22.04.49:798][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.067301 seconds
+[2021.07.24-22.04.49:802][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.07.24-22.04.49:802][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.07.24-22.04.49:802][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.07.24-22.04.50:100][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.07.24-22.04.50:103][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.07.24-22.04.50:164][  0]SourceControl: Source control is disabled
+[2021.07.24-22.04.50:164][  0]SourceControl: Source control is disabled
+[2021.07.24-22.04.50:166][  0]SourceControl: Source control is disabled
+[2021.07.24-22.04.50:168][  0]SourceControl: Source control is disabled
+[2021.07.24-22.04.50:173][  0]SourceControl: Source control is disabled
+[2021.07.24-22.04.50:177][  0]LogUProjectInfo: Found projects:
+[2021.07.24-22.04.50:345][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.07.24-22.04.50:358][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.24-22.04.50:358][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.24-22.04.50:395][  0]LogCollectionManager: Loaded 0 collections in 0.001423 seconds
+[2021.07.24-22.04.50:411][  0]LogFileCache: Scanning file cache for directory 'E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/Collections/' took 0.00s
+[2021.07.24-22.04.50:411][  0]LogFileCache: Scanning file cache for directory 'E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Content/Developers/DaisyXu/Collections/' took 0.00s
+[2021.07.24-22.04.50:411][  0]LogFileCache: Scanning file cache for directory 'E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Content/Collections/' took 0.00s
+[2021.07.24-22.04.50:411][  0]LogOcInput: OculusInput pre-init called
+[2021.07.24-22.04.50:420][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.07.24-22.04.50:420][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.07.24-22.04.50:460][  0]LogEngine: Initializing Engine...
+[2021.07.24-22.04.50:461][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.24-22.04.50:463][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.07.24-22.04.50:464][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.07.24-22.04.50:553][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.07.24-22.04.50:559][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.07.24-22.04.50:572][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.07.24-22.04.50:575][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.07.24-22.04.50:575][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.07.24-22.04.50:575][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.24-22.04.50:575][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.24-22.04.50:575][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.24-22.04.50:575][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.24-22.04.50:575][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.24-22.04.50:575][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.24-22.04.50:575][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.24-22.04.50:575][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.24-22.04.50:575][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.24-22.04.50:575][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.24-22.04.50:587][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.24-22.04.50:587][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.07.24-22.04.50:610][  0]LogAudioMixer: Display: Using Audio Device Headphones (E7 Stereo)
+[2021.07.24-22.04.50:613][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.24-22.04.50:614][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.24-22.04.50:614][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.24-22.04.50:615][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.24-22.04.50:615][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.24-22.04.50:615][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.24-22.04.50:616][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.24-22.04.50:616][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.24-22.04.50:616][  0]LogInit: FAudioDevice initialized.
+[2021.07.24-22.04.50:616][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.07.24-22.04.50:616][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.07.24-22.04.50:680][  0]LogDerivedDataCache: Saved boot cache 0.06s 77MB C:/Users/Daisy Xu/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.07.24-22.04.50:680][  0]LogInit: Texture streaming: Enabled
+[2021.07.24-22.04.50:689][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.07.24-22.04.50:692][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.07.24-22.04.50:692][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.07.24-22.04.50:693][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.07.24-22.04.50:711][  0]LogInit: Transaction tracking system initialized
+[2021.07.24-22.04.50:725][  0]BlueprintLog: New page: Editor Load
+[2021.07.24-22.04.50:774][  0]LocalizationService: Localization service is disabled
+[2021.07.24-22.04.50:804][  0]TimingProfiler: Initialize
+[2021.07.24-22.04.50:804][  0]TimingProfiler: OnSessionChanged
+[2021.07.24-22.04.50:804][  0]LoadingProfiler: Initialize
+[2021.07.24-22.04.50:804][  0]LoadingProfiler: OnSessionChanged
+[2021.07.24-22.04.50:804][  0]NetworkingProfiler: Initialize
+[2021.07.24-22.04.50:804][  0]NetworkingProfiler: OnSessionChanged
+[2021.07.24-22.04.50:804][  0]MemoryProfiler: Initialize
+[2021.07.24-22.04.50:804][  0]MemoryProfiler: OnSessionChanged
+[2021.07.24-22.04.50:914][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.07.24-22.04.50:914][  0]LogCook: Display: Mobile HDR setting 1
+[2021.07.24-22.04.51:026][  0]LogFileCache: Scanning file cache for directory 'E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Content/' took 0.00s
+[2021.07.24-22.04.51:174][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.07.24-22.04.51:177][  0]SourceControl: Source control is disabled
+[2021.07.24-22.04.51:177][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.870
+[2021.07.24-22.04.51:177][  0]Cmd: MAP LOAD FILE="E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Content/Levels/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.24-22.04.51:177][  0]LightingResults: New page: Lighting Build
+[2021.07.24-22.04.51:177][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.07.24-22.04.51:177][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.24-22.04.51:178][  0]MapCheck: New page: Map Check
+[2021.07.24-22.04.51:178][  0]LightingResults: New page: Lighting Build
+[2021.07.24-22.04.51:183][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.07.24-22.04.51:481][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Test'.
+[2021.07.24-22.04.51:481][  0]LogAIModule: Creating AISystem for world Test
+[2021.07.24-22.04.51:486][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.24-22.04.51:491][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.07.24-22.04.51:491][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.24-22.04.51:491][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.07ms to complete.
+[2021.07.24-22.04.51:491][  0]LogFileHelpers: Loading map 'Test' took 0.315
+[2021.07.24-22.04.51:492][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.186
+[2021.07.24-22.04.51:697][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.24-22.04.51:702][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.24-22.04.51:707][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.24-22.04.51:712][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.24-22.04.51:766][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0076 seconds. Added 3601 classes and 859 folders.
+[2021.07.24-22.04.51:778][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.07.24-22.04.51:792][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.24-22.04.51:792][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.24-22.04.51:792][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.24-22.04.51:792][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.07.24-22.04.51:802][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.07.24-22.04.51:802][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.24-22.04.51:802][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.07.24-22.04.51:802][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.07.24-22.04.51:808][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.07.24-22.04.51:808][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.24-22.04.51:808][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.07.24-22.04.51:808][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.07.24-22.04.51:816][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.24-22.04.51:816][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.24-22.04.51:816][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.24-22.04.51:816][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.07.24-22.04.51:823][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.07.24-22.04.51:823][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.24-22.04.51:823][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.07.24-22.04.51:823][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.07.24-22.04.51:828][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.07.24-22.04.51:828][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.24-22.04.51:828][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.07.24-22.04.51:828][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.07.24-22.04.51:835][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.07.24-22.04.51:835][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.24-22.04.51:835][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.07.24-22.04.51:835][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.07.24-22.04.51:842][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.07.24-22.04.51:842][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.24-22.04.51:842][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.07.24-22.04.51:842][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.07.24-22.04.51:854][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.24-22.04.51:854][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.24-22.04.51:854][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.24-22.04.51:855][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.07.24-22.04.51:867][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.07.24-22.04.51:867][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.24-22.04.51:867][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.07.24-22.04.51:867][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.07.24-22.04.51:873][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.07.24-22.04.51:873][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.24-22.04.51:873][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.07.24-22.04.51:873][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.07.24-22.04.51:880][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.24-22.04.51:880][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.24-22.04.51:880][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.24-22.04.51:880][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.07.24-22.04.51:886][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.24-22.04.51:886][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.24-22.04.51:886][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.24-22.04.51:886][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.07.24-22.04.51:893][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.24-22.04.51:893][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.24-22.04.51:893][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.24-22.04.51:893][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2021.07.24-22.04.51:898][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.07.24-22.04.51:898][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.24-22.04.51:898][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.07.24-22.04.51:898][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2021.07.24-22.04.51:905][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.24-22.04.51:905][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.24-22.04.51:905][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.24-22.04.51:905][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2021.07.24-22.04.51:912][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.07.24-22.04.51:912][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.24-22.04.51:912][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.07.24-22.04.51:912][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.07.24-22.04.51:918][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.24-22.04.51:918][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.24-22.04.51:918][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.24-22.04.51:918][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2021.07.24-22.04.51:924][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.24-22.04.51:924][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.24-22.04.51:924][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.24-22.04.51:924][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2021.07.24-22.04.51:933][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.24-22.04.51:933][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.24-22.04.51:933][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.24-22.04.51:933][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2021.07.24-22.04.51:940][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.24-22.04.51:940][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.24-22.04.51:940][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.24-22.04.51:940][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2021.07.24-22.04.51:946][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.24-22.04.51:946][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.24-22.04.51:946][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.24-22.04.51:946][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2021.07.24-22.04.51:952][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.07.24-22.04.51:952][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.24-22.04.51:952][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.07.24-22.04.51:952][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2021.07.24-22.04.51:960][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.24-22.04.51:960][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.24-22.04.51:960][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.24-22.04.51:960][  0]LogPakFile: OnPakFileMounted2Time == 0.000095
+[2021.07.24-22.04.51:967][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.24-22.04.51:967][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.24-22.04.51:967][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.24-22.04.51:967][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2021.07.24-22.04.51:974][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.07.24-22.04.51:974][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.24-22.04.51:974][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.07.24-22.04.51:974][  0]LogPakFile: OnPakFileMounted2Time == 0.000102
+[2021.07.24-22.04.52:130][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.07.24-22.04.52:142][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.07.24-22.04.52:829][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.07.24-22.04.52:894][  0]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.24-22.04.53:324][  0]LogSlate: Took 0.000385 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.24-22.04.53:338][  0]LogSlate: Took 0.008513 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.24-22.04.53:554][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.07.24-22.04.53:738][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.07.24-22.04.53:738][  0]LogLoad: (Engine Initialization) Total time: 7.43 seconds
+[2021.07.24-22.04.53:738][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.07.24-22.04.53:738][  0]LogInit: First time updating LLM stats...
+[2021.07.24-22.04.53:799][  0]LogAssetRegistry: Asset discovery search completed in 4.7524 seconds
+[2021.07.24-22.04.53:801][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.07.24-22.04.53:802][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.07.24-22.04.53:890][  4]LogSlate: Took 0.006996 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.24-22.04.54:754][108]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.24-22.05.14:894][371]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Assets/Tilemaps/TM_Test.TM_Test
+[2021.07.24-22.05.14:991][371]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Spritesheets/Town_Sprite_Sheet.Town_Sprite_Sheet
+[2021.07.24-22.05.15:003][371]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.07.24-22.05.15:031][371]LogLinker: Warning: Failed to load '/Game/Levels/Test.Test:PersistentLevel.Test': Can't resolve asset name
+[2021.07.24-22.05.15:506][371]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.24-22.05.17:905][544]LogRenderer: Reallocating scene render targets to support 1324x920 Format 10 NumSamples 1 (Frame:162).
+[2021.07.24-22.05.18:315][593]LogSlate: Window 'TM_Test' being destroyed
+[2021.07.24-22.07.19:407][904]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.07.24-22.07.19:408][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.24-22.07.31:033][ 43]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.07.24-22.07.31:055][ 43]LogContentBrowser: Creating deferred item: NewFolder
+[2021.07.24-22.07.33:975][394]LogContentBrowser: Attempting asset rename: NewFolder -> Widgets
+[2021.07.24-22.07.33:975][394]LogContentBrowser: End creating deferred item NewFolder
+[2021.07.24-22.08.31:457][223]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.07.24-22.08.31:463][223]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.07.24-22.08.50:885][554]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_Menu
+[2021.07.24-22.08.50:890][554]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.07.24-22.08.52:973][798]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Assets/Widgets/W_Menu.W_Menu
+[2021.07.24-22.08.53:403][798]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2021.07.24-22.08.56:771][999]LogSlate: Window 'W_Menu' being destroyed
+[2021.07.24-22.11.36:775][987]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.24-22.11.48:558][392]BlueprintLog: New page: Compile W_Menu
+[2021.07.24-22.11.48:603][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.07.24-22.13.58:082][201]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.24-22.14.04:781][995]BlueprintLog: New page: Compile W_Menu
+[2021.07.24-22.14.04:803][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.07.24-22.14.19:117][691]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Blueprints/BP_Rita.BP_Rita
+[2021.07.24-22.14.20:306][692]LogSlate: Took 0.005186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.07.24-22.20.54:509][110]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 85110
+[2021.07.24-22.20.54:510][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.24-22.20.54:517][111]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.24-22.20.54:520][111]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.24-22.20.54:520][111]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.24-22.20.54:521][111]LogSlate: Took 0.000083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.24-22.20.54:522][111]LogSlate: Took 0.000088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.24-22.21.04:411][293]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 1183
+[2021.07.24-22.21.04:411][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.24-22.21.04:416][294]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.24-22.21.04:419][294]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.24-22.21.04:420][294]LogSlate: Took 0.000080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.24-22.21.04:421][294]LogSlate: Took 0.000071 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.24-22.21.04:421][294]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.24-22.21.04:813][340]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 47
+[2021.07.24-22.21.04:815][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.24-22.21.04:819][341]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.24-22.21.04:822][341]LogSlate: Took 0.000087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.24-22.21.04:823][341]LogSlate: Took 0.000072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.24-22.21.04:823][341]LogSlate: Took 0.000068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.24-22.21.04:824][341]LogSlate: Took 0.000076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.24-22.21.04:859][343]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 3
+[2021.07.24-22.21.04:865][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.24-22.21.04:869][344]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.24-22.21.04:873][344]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.24-22.21.04:873][344]LogSlate: Took 0.000072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.24-22.21.04:874][344]LogSlate: Took 0.000068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.24-22.21.04:875][344]LogSlate: Took 0.000075 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.24-22.21.04:892][344]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 2 atlas pages as there is a lot of font data being cached.
+[2021.07.24-22.21.04:896][344]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 3 atlas pages as there is a lot of font data being cached.
+[2021.07.24-22.21.04:901][344]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 4 atlas pages as there is a lot of font data being cached.
+[2021.07.24-22.21.04:918][345]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 5/4 Pages; frames since last flush: 2
+[2021.07.24-22.21.04:933][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.24-22.21.04:943][346]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.24-22.21.04:946][346]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.24-22.21.04:947][346]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.24-22.21.04:948][346]LogSlate: Took 0.000077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.24-22.21.04:949][346]LogSlate: Took 0.000075 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.24-22.21.04:967][346]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 2 atlas pages as there is a lot of font data being cached.
+[2021.07.24-22.21.04:972][346]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 3 atlas pages as there is a lot of font data being cached.
+[2021.07.24-22.21.04:976][346]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 4 atlas pages as there is a lot of font data being cached.
+[2021.07.24-22.21.05:175][369]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 5/4 Pages; frames since last flush: 24
+[2021.07.24-22.21.05:189][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.24-22.21.05:197][370]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.24-22.21.05:200][370]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.24-22.21.05:200][370]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.24-22.21.05:201][370]LogSlate: Took 0.000068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.24-22.21.05:201][370]LogSlate: Took 0.000073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.24-22.21.05:235][372]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 3
+[2021.07.24-22.21.05:237][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.24-22.21.05:242][373]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.24-22.21.05:245][373]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.24-22.21.05:246][373]LogSlate: Took 0.000072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.24-22.21.05:247][373]LogSlate: Took 0.000071 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.24-22.21.05:247][373]LogSlate: Took 0.000078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.24-22.21.05:400][390]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 18
+[2021.07.24-22.21.05:401][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.24-22.21.05:407][391]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.24-22.21.05:411][391]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.24-22.21.05:411][391]LogSlate: Took 0.000077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.24-22.21.05:412][391]LogSlate: Took 0.000073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.24-22.21.05:413][391]LogSlate: Took 0.000071 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.24-22.21.05:732][428]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 38
+[2021.07.24-22.21.05:734][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.24-22.21.05:741][429]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.24-22.21.05:745][429]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.24-22.21.05:745][429]LogSlate: Took 0.000074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.24-22.21.05:746][429]LogSlate: Took 0.000068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.24-22.21.05:747][429]LogSlate: Took 0.000072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.24-22.21.05:782][431]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 3
+[2021.07.24-22.21.05:793][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.24-22.21.05:799][432]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.24-22.21.05:803][432]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.24-22.21.05:803][432]LogSlate: Took 0.000072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.24-22.21.05:804][432]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.24-22.21.05:805][432]LogSlate: Took 0.000069 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.24-22.21.05:835][432]LogSlate: Warning: SlateFontCache - Glyph texture is too large to store in the font atlas, so we're falling back to a non-atlased texture for this glyph. This may have SERIOUS performance implications. Atlas page size: { 2048, 2048 }. Glyph render size: { 2443, 2440 }
+[2021.07.24-22.21.05:849][432]LogSlate: Warning: SlateFontCache - Glyph texture is too large to store in the font atlas, so we're falling back to a non-atlased texture for this glyph. This may have SERIOUS performance implications. Atlas page size: { 2048, 2048 }. Glyph render size: { 2431, 2433 }
+[2021.07.24-22.21.05:849][432]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2021.07.24-22.21.05:867][432]LogSlate: Warning: SlateFontCache - Glyph texture is too large to store in the font atlas, so we're falling back to a non-atlased texture for this glyph. This may have SERIOUS performance implications. Atlas page size: { 2048, 2048 }. Glyph render size: { 2431, 2433 }
+[2021.07.24-22.21.05:867][432]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 3 non-atlased textures as there is a lot of font data being cached.
+[2021.07.24-22.21.05:883][432]LogSlate: Warning: SlateFontCache - Glyph texture is too large to store in the font atlas, so we're falling back to a non-atlased texture for this glyph. This may have SERIOUS performance implications. Atlas page size: { 2048, 2048 }. Glyph render size: { 2430, 2433 }
+[2021.07.24-22.21.05:883][432]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 4 non-atlased textures as there is a lot of font data being cached.
+[2021.07.24-22.21.05:918][433]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 2
+[2021.07.24-22.21.05:938][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.24-22.21.05:944][434]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.24-22.21.05:947][434]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.24-22.21.05:948][434]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.24-22.21.05:948][434]LogSlate: Took 0.000067 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.24-22.21.05:949][434]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.24-22.21.05:979][434]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 2 atlas pages as there is a lot of font data being cached.
+[2021.07.24-22.21.05:988][434]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 3 atlas pages as there is a lot of font data being cached.
+[2021.07.24-22.21.05:996][434]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 4 atlas pages as there is a lot of font data being cached.
+[2021.07.24-22.21.06:019][435]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 5/4 Pages; frames since last flush: 2
+[2021.07.24-22.21.06:046][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.24-22.21.06:051][436]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.24-22.21.06:055][436]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.24-22.21.06:055][436]LogSlate: Took 0.000071 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.24-22.21.06:056][436]LogSlate: Took 0.000067 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.24-22.21.06:057][436]LogSlate: Took 0.000068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.24-22.21.06:087][436]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 2 atlas pages as there is a lot of font data being cached.
+[2021.07.24-22.21.06:098][436]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 3 atlas pages as there is a lot of font data being cached.
+[2021.07.24-22.21.06:107][436]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 4 atlas pages as there is a lot of font data being cached.
+[2021.07.24-22.21.06:133][437]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 5/4 Pages; frames since last flush: 2
+[2021.07.24-22.21.06:165][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.24-22.21.06:170][438]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.24-22.21.06:174][438]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.24-22.21.06:174][438]LogSlate: Took 0.000073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.24-22.21.06:175][438]LogSlate: Took 0.000068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.24-22.21.06:176][438]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.24-22.21.06:199][438]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 2 atlas pages as there is a lot of font data being cached.
+[2021.07.24-22.21.06:218][438]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 3 atlas pages as there is a lot of font data being cached.
+[2021.07.24-22.21.06:229][438]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 4 atlas pages as there is a lot of font data being cached.
+[2021.07.24-22.21.06:229][438]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 5 atlas pages as there is a lot of font data being cached.
+[2021.07.24-22.21.06:579][477]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 6/5 Pages; frames since last flush: 40
+[2021.07.24-22.21.06:601][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.24-22.21.06:610][478]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.24-22.21.06:613][478]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.24-22.21.06:613][478]LogSlate: Took 0.000076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.24-22.21.06:614][478]LogSlate: Took 0.000077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.24-22.21.06:615][478]LogSlate: Took 0.000080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.24-22.21.06:633][478]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 2 atlas pages as there is a lot of font data being cached.
+[2021.07.24-22.21.06:639][478]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 3 atlas pages as there is a lot of font data being cached.
+[2021.07.24-22.21.06:644][478]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 4 atlas pages as there is a lot of font data being cached.
+[2021.07.24-22.21.06:703][483]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 5/4 Pages; frames since last flush: 6
+[2021.07.24-22.21.06:703][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.24-22.21.06:708][484]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.24-22.21.06:711][484]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.24-22.21.06:712][484]LogSlate: Took 0.000072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.24-22.21.06:713][484]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.24-22.21.06:713][484]LogSlate: Took 0.000071 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.24-22.21.06:840][498]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 15
+[2021.07.24-22.21.06:841][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.24-22.21.06:848][499]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.24-22.21.06:851][499]LogSlate: Took 0.000107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.24-22.21.06:852][499]LogSlate: Took 0.000077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.24-22.21.06:853][499]LogSlate: Took 0.000068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.24-22.21.06:854][499]LogSlate: Took 0.000071 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.24-22.24.22:900][844]BlueprintLog: New page: Compile W_Menu
+[2021.07.24-22.24.22:930][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.07.24-22.26.57:298][589]BlueprintLog: New page: Compile W_Menu
+[2021.07.24-22.26.57:324][589]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.07.24-22.26.58:352][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Widgets/W_Menu" FILE="E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Content/Assets/Widgets/W_Menu.uasset" SILENT=true
+[2021.07.24-22.26.58:356][703]LogSavePackage: Moving 'E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/W_Menu400CB4A34229C458EBBB65AE226B901C.tmp' to 'E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Content/Assets/Widgets/W_Menu.uasset'
+[2021.07.24-22.26.58:369][703]AssetCheck: New page: Asset Save: W_Menu
+[2021.07.24-22.26.58:369][703]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/Widgets/W_Menu.W_Menu
+[2021.07.24-22.27.00:037][897]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.07.24-22.27.42:496][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.07.24-22.27.42:496][ 86]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Test' took 0.027
+[2021.07.24-22.27.42:497][ 86]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Blueprints/BP_Rita] ([1] browsable assets)...
+[2021.07.24-22.27.42:497][ 86]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/BP_Rita]
+[2021.07.24-22.27.42:511][ 86]LogSavePackage: Moving 'E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/BP_Rita_Auto10C5D1242492D2EF09CABBAB4809ED110.tmp' to 'E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/Autosaves/Game/Assets/Blueprints/BP_Rita_Auto1.uasset'
+[2021.07.24-22.27.42:512][ 86]LogFileHelpers: Auto-saving content packages took 0.015
+[2021.07.24-22.28.13:812][783]BlueprintLog: New page: Compile BP_Rita
+[2021.07.24-22.28.13:853][783]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.07.24-22.28.14:466][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/BP_Rita" FILE="E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Content/Assets/Blueprints/BP_Rita.uasset" SILENT=true
+[2021.07.24-22.28.14:480][846]LogSavePackage: Moving 'E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/BP_Rita71FB1AF44A31A837373D95AD91A3DADB.tmp' to 'E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Content/Assets/Blueprints/BP_Rita.uasset'
+[2021.07.24-22.28.14:493][846]AssetCheck: New page: Asset Save: BP_Rita
+[2021.07.24-22.28.14:493][846]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/BP_Rita.BP_Rita
+[2021.07.24-22.32.42:531][355]BlueprintLog: New page: Compile BP_Rita
+[2021.07.24-22.32.42:575][355]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.07.24-22.32.43:126][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/BP_Rita" FILE="E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Content/Assets/Blueprints/BP_Rita.uasset" SILENT=true
+[2021.07.24-22.32.43:142][417]LogSavePackage: Moving 'E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/BP_RitaF29C2B1346FF4AD97387D68740685925.tmp' to 'E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Content/Assets/Blueprints/BP_Rita.uasset'
+[2021.07.24-22.32.43:155][417]AssetCheck: New page: Asset Save: BP_Rita
+[2021.07.24-22.32.43:155][417]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/BP_Rita.BP_Rita
+[2021.07.24-22.32.44:795][607]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.24-22.32.48:141][998]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.24-22.32.48:145][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.24-22.32.48:146][998]PIE: New page: PIE session: Test (Jul 24, 2021, 8:32:48 AM)
+[2021.07.24-22.32.48:148][998]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.07.24-22.32.48:149][998]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.07.24-22.32.48:149][998]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test
+[2021.07.24-22.32.48:150][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000856s)
+[2021.07.24-22.32.48:151][998]LogAIModule: Creating AISystem for world Test
+[2021.07.24-22.32.48:151][998]LogPlayLevel: PIE: World Init took: (0.000836s)
+[2021.07.24-22.32.48:151][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test.Test to /Game/Levels/UEDPIE_0_Test.Test (0.001793s)
+[2021.07.24-22.32.48:174][998]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.07.24-22.32.48:175][998]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.07.24-22.32.48:175][998]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.24-22.32.48:175][998]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.24-22.32.48:175][998]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.24-22.32.48:175][998]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.24-22.32.48:175][998]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.24-22.32.48:175][998]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.24-22.32.48:175][998]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.24-22.32.48:175][998]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.24-22.32.48:176][998]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.24-22.32.48:176][998]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.24-22.32.48:181][998]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.24-22.32.48:181][998]LogAudioMixer: Display: 1: FrontRight
+[2021.07.24-22.32.48:189][998]LogAudioMixer: Display: Using Audio Device Headphones (E7 Stereo)
+[2021.07.24-22.32.48:189][998]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.24-22.32.48:189][998]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.24-22.32.48:189][998]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.24-22.32.48:190][998]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.24-22.32.48:190][998]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.24-22.32.48:190][998]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.24-22.32.48:190][998]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.24-22.32.48:190][998]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.24-22.32.48:190][998]LogInit: FAudioDevice initialized.
+[2021.07.24-22.32.48:190][998]LogAudio: Display: Audio Device (ID: 2) registered with world 'Test'.
+[2021.07.24-22.32.48:205][998]LogLoad: Game class is 'GameModeBase'
+[2021.07.24-22.32.48:206][998]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2021.07.24-15.32.48
+[2021.07.24-22.32.48:206][998]LogWorld: Bringing up level for play took: 0.000397
+[2021.07.24-22.32.48:206][998]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.07.24-22.32.48:216][998]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.07.24-22.32.48:218][998]Cmd: ShowFlag.Tonemapper 0
+[2021.07.24-22.32.48:219][998]ShowFlag.Tonemapper = "0"
+[2021.07.24-22.32.48:220][998]PIE: Server logged in
+[2021.07.24-22.32.48:221][998]PIE: Play in editor total start time 0.076 seconds.
+[2021.07.24-22.33.00:929][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.24-22.33.01:570][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.24-22.33.06:513][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.24-22.33.07:371][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.24-22.33.08:646][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.24-22.33.13:622][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.24-22.33.14:272][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.24-22.33.38:683][759]LogEditorViewport: Clicking Background
+[2021.07.24-22.34.11:849][654]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TM_Test)
+[2021.07.24-22.34.16:928][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.24-22.34.17:278][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.24-22.34.18:978][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.24-22.34.18:978][422]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test
+[2021.07.24-22.34.18:978][422]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2021.07.24-22.34.18:978][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.24-22.34.18:982][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.24-22.34.18:987][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.24-22.34.19:012][422]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.24-22.34.19:013][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.24-22.34.19:013][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.24-22.34.19:026][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.24-22.34.19:036][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.07.24-22.34.19:064][423]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.07.24-22.34.19:226][441]Cmd: SELECT NONE
+[2021.07.24-22.34.22:621][846]BlueprintLog: New page: Compile W_Menu
+[2021.07.24-22.34.22:654][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.07.24-22.34.23:023][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Widgets/W_Menu" FILE="E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Content/Assets/Widgets/W_Menu.uasset" SILENT=true
+[2021.07.24-22.34.23:026][881]LogSavePackage: Moving 'E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/W_MenuC6011A2946C7E68144ED77A16B818587.tmp' to 'E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Content/Assets/Widgets/W_Menu.uasset'
+[2021.07.24-22.34.23:036][881]AssetCheck: New page: Asset Save: W_Menu
+[2021.07.24-22.34.23:036][881]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/Widgets/W_Menu.W_Menu
+[2021.07.24-22.34.25:327][142]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.07.24-22.34.25:327][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.24-22.34.25:335][142]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.07.24-22.34.25:335][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.24-22.34.31:908][902]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Assets/Widgets/W_Menu.W_Menu
+[2021.07.24-22.34.33:683][ 77]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.07.24-22.34.33:683][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.24-22.34.33:691][ 77]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.07.24-22.34.33:691][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.24-22.34.42:755][131]LogContentBrowser: Attempting asset rename: W_Menu -> MenuHud
+[2021.07.24-22.34.42:775][131]LogMetaData: Removing '/Game/Assets/Widgets/MenuHud.SKEL_MenuHud_C' ref from Metadata '/Game/Assets/Widgets/W_Menu.PackageMetaData'
+[2021.07.24-22.34.42:775][131]LogMetaData: Removing '/Game/Assets/Widgets/MenuHud.MenuHud_C' ref from Metadata '/Game/Assets/Widgets/W_Menu.PackageMetaData'
+[2021.07.24-22.34.42:775][131]LogMetaData: Removing '/Game/Assets/Widgets/MenuHud.MenuHud:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Assets/Widgets/W_Menu.PackageMetaData'
+[2021.07.24-22.34.42:775][131]LogMetaData: Removing '/Game/Assets/Widgets/MenuHud.MenuHud:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Assets/Widgets/W_Menu.PackageMetaData'
+[2021.07.24-22.34.42:775][131]LogMetaData: Removing '/Game/Assets/Widgets/MenuHud.MenuHud:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Assets/Widgets/W_Menu.PackageMetaData'
+[2021.07.24-22.34.42:775][131]LogMetaData: Removing '/Game/Assets/Widgets/MenuHud.SKEL_MenuHud_C:Tick' ref from Metadata '/Game/Assets/Widgets/W_Menu.PackageMetaData'
+[2021.07.24-22.34.42:775][131]LogMetaData: Removing '/Game/Assets/Widgets/MenuHud.SKEL_MenuHud_C:Construct' ref from Metadata '/Game/Assets/Widgets/W_Menu.PackageMetaData'
+[2021.07.24-22.34.42:775][131]LogMetaData: Removing '/Game/Assets/Widgets/MenuHud.SKEL_MenuHud_C:PreConstruct' ref from Metadata '/Game/Assets/Widgets/W_Menu.PackageMetaData'
+[2021.07.24-22.34.42:790][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Widgets/MenuHud" FILE="E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Content/Assets/Widgets/MenuHud.uasset" SILENT=true
+[2021.07.24-22.34.42:792][131]LogSavePackage: Moving 'E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/MenuHud2F9B34E549328AC0604CA2B8A7AC31E8.tmp' to 'E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Content/Assets/Widgets/MenuHud.uasset'
+[2021.07.24-22.34.42:890][131]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.07.24-22.34.42:933][131]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.07.24-22.34.42:951][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.07.24-22.34.42:973][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/BP_Rita" FILE="E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Content/Assets/Blueprints/BP_Rita.uasset" SILENT=true
+[2021.07.24-22.34.42:988][131]LogSavePackage: Moving 'E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Saved/BP_RitaC7FBB7EC476A1FBA74D1CA9B23C465A3.tmp' to 'E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Content/Assets/Blueprints/BP_Rita.uasset'
+[2021.07.24-22.34.43:019][131]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.24-22.34.43:019][131]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/BP_Rita.BP_Rita
+[2021.07.24-22.34.43:019][131]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/Widgets/MenuHud.MenuHud
+[2021.07.24-22.34.50:588][ 23]LogContentBrowser: Attempting asset rename: MenuHud -> MenuHUD
+[2021.07.24-22.34.50:623][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Widgets/MenuHud" FILE="E:/My shit/Game Projects/oh_no_our_humans_have_been_taken/rescue_the_humans/Content/Assets/Widgets/MenuHud.uasset" SILENT=true
+[2021.07.24-22.34.50:625][ 23]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.07.24-22.34.51:675][ 23]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.050 s
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: === Handled ensure: ===
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: 
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 222]
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: Found circular redirect from /Game/Assets/Widgets/MenuHud.MenuHud to /Game/Assets/Widgets/MenuHUD.MenuHUD! Returning None instead
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: Stack: 
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe381f7093 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe37da2810 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe380df236 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe380f834e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe37dd7cb7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe27d35162 UE4Editor-Core.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe380efcc3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe37fee699 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe37f45896 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe380a3ec7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe380a4444 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe37f485e3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe37f4609c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe37f459ae UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe380a3ec7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe38039175 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe380a4444 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe37f485e3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe37f4609c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe38039504 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe38037af0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe3803755b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe24e35b20 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe24e35714 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe0e2c4bcf UE4Editor-UMGEditor.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe380867d2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe380a8a5b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe3808dfec UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe2297276e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe2297325e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe229ae762 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe229ab09c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.24-22.34.51:675][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe2322cc97 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe22ca9093 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe22ca79ad UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe22cd0a50 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe18c7e2c7 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe18c1ffca UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe18c98c92 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe06dbf233 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe06dbf521 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe06dbf5fb UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe19c288a6 UE4Editor-ContentBrowserData.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe1966402e UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe196a8ebf UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe196c8c3b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe196a80e7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe24465fb4 UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe2444b857 UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe243f4c98 UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe243d37a7 UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe24453c66 UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe24455078 UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe2434f084 UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe241925b2 UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe241fe399 UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe241f2236 UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe5b9bb948 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe5b9a9197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe5b9be379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe5b9a4310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffea2d2e858 USER32.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffea2d2e299 USER32.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffe5b9bf904 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ff652048857 UE4Editor.exe!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ff6520611ac UE4Editor.exe!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ff65206128a UE4Editor.exe!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ff6520752ed UE4Editor.exe!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ff65207801a UE4Editor.exe!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffea2a27034 KERNEL32.DLL!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: [Callstack] 0x00007ffea32e2651 ntdll.dll!UnknownFunction []
+[2021.07.24-22.34.51:676][ 23]LogOutputDevice: Error: 
